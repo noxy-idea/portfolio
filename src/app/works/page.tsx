@@ -31,8 +31,8 @@ const works: Work[] = [
     description: "現在のこのポートフォリオサイトです。Next.jsをつかって制作しました。",
     image: "/portfolioimage.png", // 仮の画像
     tags: ["Next.js", "Tailwind"],
-    link: "https://github.com/",
-    github: "https://github.com/",
+    link: "https://kousei-idea-portfolio.vercel.app//",
+    github: "https://github.com/noxy-idea/portfolio/",
   },
   
 ];
