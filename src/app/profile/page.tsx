@@ -28,7 +28,7 @@ export default function ProfilePage() {
               Kousei
             </h1>
             <p className="text-base font-medium text-gray-500">
-              19y/o | Web Developer | Frontend Engineer
+              20y/o | Web Developer | Frontend Engineer
             </p>
           </div>
 
